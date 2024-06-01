@@ -8,8 +8,6 @@ This is the core code from scratch to clone the landing page of Netflix using HT
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
@@ -47,16 +45,6 @@ Open the index.html file in your web browser to view the Netflix clone homepage.
 ![Screenshot (78)](https://github.com/AyushPatel0028/Netflix-clone/assets/149039733/f394c655-1a0a-4553-a6dd-0257d707799c)
 
 
-## Contributing
 
-Contributions are welcome! If you have any suggestions or improvements, feel free to create an issue or submit a pull request.
 
-- Fork the repository.
-- Create a new branch: git checkout -b feature-branch-name.
-- Make your changes and commit them: git commit -m 'Add some feature'.
-- Push to the branch: git push origin feature-branch-name.
-- Submit a pull request.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
